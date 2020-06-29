@@ -1,4 +1,4 @@
-module github.com/nleiva/xrgrpc
+module github.com/ljm625/xrgrpc
 
 require (
 	github.com/golang/protobuf v1.2.0
@@ -8,3 +8,5 @@ require (
 	google.golang.org/genproto v0.0.0-20181101192439-c830210a61df // indirect
 	google.golang.org/grpc v1.16.0
 )
+
+go 1.13
