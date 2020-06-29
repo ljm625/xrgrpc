@@ -18,8 +18,8 @@ import (
 	"time"
 
 	"github.com/golang/protobuf/proto"
-	xr "github.com/nleiva/xrgrpc"
-	"github.com/nleiva/xrgrpc/proto/telemetry"
+	xr "github.com/ljm625/xrgrpc"
+	"github.com/ljm625/xrgrpc/proto/telemetry"
 )
 
 // Colors, just for fun.

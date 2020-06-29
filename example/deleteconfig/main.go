@@ -12,7 +12,7 @@ import (
 	"math/rand"
 	"time"
 
-	xr "github.com/nleiva/xrgrpc"
+	xr "github.com/ljm625/xrgrpc"
 )
 
 func timeTrack(start time.Time) {
